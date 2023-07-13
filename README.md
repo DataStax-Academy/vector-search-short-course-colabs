@@ -1,1 +1,1 @@
-# vector-search-short-course-colabs
+# Colab Exercises
